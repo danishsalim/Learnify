@@ -1,10 +1,10 @@
 # Learnify
-
+node js must be installed in the device.
 To run the app 1st run the below command in terminal: 
-npm install
+npm install.
 this command will install all dependency required.
 then run:
-npm run dev
+npm run dev,
 this command will run the app in local host.
 
 
