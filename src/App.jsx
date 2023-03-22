@@ -79,7 +79,7 @@ const root = createRoot(container);
 root.render(
   <Auth0Provider
     domain="dev-32zr27wj6sjglj8v.us.auth0.com"
-    clientId="uTd9Pd8FNf1gNzVPLtzUzpjKYxUMfO3a"
+    clientId="lQTCntH0ECjdR8JoTNOlDUgl4IOLezmj"
     authorizationParams={{
       redirect_uri: window.location.origin,
     }}
